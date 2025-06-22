@@ -11,5 +11,6 @@ int main() {
     } else {
         printf("Not nice\n");
     }
-    }
+return 0;
+}
 
