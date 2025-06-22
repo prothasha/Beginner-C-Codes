@@ -5,7 +5,8 @@ void printb();
 void printghgh();
 
 int main() {
-    printHello(); //Function call
+    //Function call
+    printHello(); 
     printHello();
     printb();
     printghgh();
